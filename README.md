@@ -23,7 +23,7 @@ All teaching content, concepts, and course structure are from **[Sheryians AI Sc
 ---
 
 ## 🗂️ Repository Structure
-
+---
 Learning_Data_Visualization_for_Data_Science/
 │
 ├── 01_Data_Visualization_Matplotlib.ipynb         # Matplotlib basics — line, bar, scatter plots
