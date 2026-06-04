@@ -12,15 +12,183 @@ All teaching content, concepts, and course structure are from **[Sheryians AI Sc
 
 ---
 
-## ✅ What You'll Learn
+## 📚 Course Learning Path
 
-- 📌 Why **Data Visualization** is a must-have skill in Data Science
-- 🎨 Basics of **Matplotlib** — your first step into visual magic
-- 💅 Stylish plots and insights using **Seaborn**
-- ⚡ Interactive graphs using **Plotly & Cufflinks**
-- 🏏 A real-world **IPL Capstone Project** to tie it all together
+### Module 01 — Matplotlib Fundamentals
+
+Topics Covered:
+
+- Introduction to Data Visualization
+- Understanding plots and charts
+- Line Plot
+- Bar Chart
+- Scatter Plot
+- Histogram
+- Pie Chart
+- Figure customization
+- Labels, titles, legends
+- Grid configuration
+- Multiple plots in a single figure
+
+Key Functions:
+
+```python
+plt.plot()
+plt.bar()
+plt.scatter()
+plt.hist()
+plt.pie()
+plt.xlabel()
+plt.ylabel()
+plt.title()
+plt.legend()
+plt.grid()
+```
 
 ---
+
+### Module 02 — Distribution Visualization
+
+Topics Covered:
+
+- Understanding data distributions
+- Distribution Plot
+- Kernel Density Estimation (KDE)
+- Rug Plot
+- Joint Plot
+- Pairwise distribution analysis
+
+Key Functions:
+
+```python
+sns.distplot()
+sns.kdeplot()
+sns.rugplot()
+sns.jointplot()
+```
+
+---
+
+### Module 03 — Categorical Data Visualization
+
+Topics Covered:
+
+- Visualizing categorical features
+- Count Plot
+- Bar Plot
+- Box Plot
+- Violin Plot
+- Strip Plot
+- Swarm Plot
+- Factor Plot
+
+Key Functions:
+
+```python
+sns.countplot()
+sns.barplot()
+sns.boxplot()
+sns.violinplot()
+sns.stripplot()
+sns.swarmplot()
+sns.catplot()
+```
+
+---
+
+### Module 04 — Matrix & Correlation Visualization
+
+Topics Covered:
+
+- Correlation Analysis
+- Correlation Matrix
+- Heatmaps
+- Cluster Maps
+- Feature relationship analysis
+
+Key Functions:
+
+```python
+dataset.corr()
+
+sns.heatmap()
+sns.clustermap()
+```
+
+---
+
+### Module 05 — Regression Visualization
+
+Topics Covered:
+
+- Regression Analysis
+- Trend Analysis
+- Relationship Between Variables
+- Linear Regression Visualization
+
+Key Functions:
+
+```python
+sns.regplot()
+sns.lmplot()
+```
+
+---
+
+### Module 06 — Interactive Data Visualization
+
+Topics Covered:
+
+- Plotly Basics
+- Interactive Charts
+- Zooming & Panning
+- Hover Information
+- Dynamic Visualization
+- Cufflinks Integration
+
+Key Functions:
+
+```python
+df.iplot()
+
+go.Figure()
+
+px.scatter()
+px.bar()
+px.line()
+```
+
+---
+
+### Module 07 — IPL Capstone Project
+
+Topics Covered:
+
+- Real-world Dataset Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Cricket Statistics Analysis
+- Visualization-Based Insights
+- Interactive Charts
+- Storytelling Through Data
+
+Skills Applied:
+
+✅ Matplotlib
+
+✅ Seaborn
+
+✅ Plotly
+
+✅ Pandas
+
+✅ Data Cleaning
+
+✅ EDA
+
+✅ Statistical Visualization
+
+✅ Business Insight Extraction
 
 ## 🗂️ Repository Structure
 
