@@ -190,6 +190,8 @@ Skills Applied:
 
 ✅ Business Insight Extraction
 
+---
+
 ## 🗂️ Repository Structure
 
 ```
